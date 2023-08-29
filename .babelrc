@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+  }
+  //npm install @babel/core @babel/preset-env @babel/preset-react react react-dom react-helmet-async
